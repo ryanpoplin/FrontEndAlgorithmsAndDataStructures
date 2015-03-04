@@ -1,0 +1,1 @@
+Algosxy.ApplicationAdapter = DS.FixtureAdapter;
